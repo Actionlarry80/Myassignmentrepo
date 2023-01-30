@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">482237965947-hhnn6t4uh08pgpsblinmc4adbcego6mg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">482237965947</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8CRRhxRt3fLnKFFqz-A2tNyZ-E94HNek</string>
+    <string name="google_app_id" translatable="false">1:482237965947:android:9196649db6f84c1b0164de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8CRRhxRt3fLnKFFqz-A2tNyZ-E94HNek</string>
+    <string name="google_storage_bucket" translatable="false">sports-bay-51d58.appspot.com</string>
+    <string name="project_id" translatable="false">sports-bay-51d58</string>
+</resources>
